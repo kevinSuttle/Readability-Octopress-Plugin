@@ -15,12 +15,12 @@ killall Finder</pre>
 
 ## Usage  
 You've basically got 2 options:  
-1. Show the usual 'Read Now | Read Later' button options
+<ol><li>Show the usual 'Read Now | Read Later' button options
 
-<pre>readability_basic_buttons: true # Read Now, Read Later</pre>
+<pre>readability_basic_buttons: true # Read Now, Read Later</pre></li>
 
-2. Show the full set of Readability buttons
-<pre>readability_all_buttons: false # Read Now, Read Later, Print, Email, Send to Kindle</pre>  
+<li>Show the full set of Readability buttons
+<pre>readability_all_buttons: false # Read Now, Read Later, Print, Email, Send to Kindle</pre></li>  
 
 For support, open up an issue on the Github repo. Thanks!
 Also, if you'd like to fork this, be my guest.  
