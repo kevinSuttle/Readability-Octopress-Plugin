@@ -1,11 +1,8 @@
-...
 
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
 
-...
-
 # Readability
-readability_basic_buttons: true
-readability_all_buttons: false
+readability_basic_buttons: true # Read Now, Read Later
+readability_all_buttons: false # Read Now, Read Later, Print, Email, Send to Kindle
